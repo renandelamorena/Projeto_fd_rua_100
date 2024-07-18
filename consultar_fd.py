@@ -176,9 +176,7 @@ def baixa_salvar_planilha_estoque_fd():
         
 def abre_e_mail():
     
-    destinatarios = [r'controle.estoque@grupomaxifarma.com',
-                    r'recebimento@grupomaxifarma.com',
-                    r'olivio.expedicao@grupomaxifarma.com']
+    destinatarios = [r'e-mail@email.com']
     
     #partindo do principio que a área de trabalho esta aberta:
     #abre chrome:
